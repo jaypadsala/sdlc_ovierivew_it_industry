@@ -1,0 +1,66 @@
+Module - 1 SE - Overview of IT Industry
+------------------------------------------------
+Q-1 What is software? What is software engineering?
+Ans. Software is a set of instructions or programs used to operate computers and execute specific tasks.
+Software engineering is defined as a process of analyzing user requirements and then designing, building, and testing software application which will satisfy those requirements.
+------------------------------------------------
+Q-2 Explain types of software.
+Ans. There is 5 types of software given below.
+1) Application Software
+Application software is a computer software package that performs a specific function for a user, or in some cases, for another application. An application can be self-contained, or it can be a group of programs that run the application for the user. Examples of modern applications include office suites, graphics software, databases and database management programs, web browsers, word processors, software development tools, image editors and communication platforms.
+2) System software
+System software coordinates the activities and functions of the hardware and software. In addition, it controls the operations of the computer hardware and provides an environment or platform for all the other types of software to work in. The OS is the best example of system software; it manages all the other computer programs. Other examples of system software include the firmware and computer language translators.
+3)Driver software
+Also known as device drivers. Device drivers control the devices and peripherals connected to a computer, enabling them to perform their specific tasks. Every device that is connected to a computer needs at least one device driver to function. Examples USB storage devices, keyboards, headphones and printers.
+4)Middleware
+The term middleware describes software that mediates between application and system software or between two different kinds of application software. For example, middleware enables Microsoft Windows to talk to Excel and Word. It is also used to send a remote work request from an application in a computer that has one kind of OS, to an application in a computer with a different OS.
+5)Programming software
+Computer programmers use programming software to write code. Programming software and programming tools enable developers to develop, write, test and debug other software programs. Examples of programming software include assemblers, compilers, debuggers and interpreters.
+------------------------------------------------
+Q-3 What is SDLC? Explain each phase of SDLC.
+Ans. SLDC means The Software Development Life Cycle.
+SDLC refers to a methodology with clearly defined processes for creating high-quality software.
+There is 7 types of SLDC Phases given below.
+1) Software Requirement
+During this phase, all the relevant information is collected from the customer to develop a product as per their expectation. Business analyst and Project Manager set up a meeting with the customer to gather all the information like what the customer wants to build, who will be the end-user, what is the purpose of the product.
+2) Software Analysis
+Once the requirement gathering is done, an analysis is done to check the feasibility of the development of a product. In case of any ambiguity, a call is set up for further discussion.
+3) Software Designing
+In this phase, the requirement gathered in the Software requiremnet document is used as an input and software architecture that is used for implementing system development is derived.
+4) Software Development
+Development/Implementation/Coding starts once the developer gets the Design document. The Software design is translated into source code. 
+5) Software Testing
+Testing starts once the coding is complete and the modules are released for testing. In this phase, the developed software is tested thoroughly and any defects found are assigned to developers to get them fixed. Testers refer software requirment document to make sure that the software is as per the customer’s standard.
+6) Software Deployment
+Once the product is tested, it is deployed in the production environment or first UAT (User Acceptance testing) is done depending on the customer expectation.
+In the case of UAT, a replica of the production environment is created and the customer along with the developers does the testing. If the customer finds the application as expected, then sign off is provided by the customer to go live.
+7)Software Maintance
+After the deployment of a product on the production environment, maintenance of the product i.e. if any issue comes up and needs to be fixed or any enhancement is to be done is taken care by the developers.
+------------------------------------------------
+Q-4 What is DFD? Create a DFD diagram on Flipkart.
+Ans. DFD means Data Flow Diagram. It visually represents the flow of data throughout processes in a given system. DFD shows the kind of information that will be input to and output from processes as well as where the data will be stored. It uses defined symbols like rectangles, circles and arrows, plus short text labels, to show data inputs, outputs, storage points and the routes between each destination.
+DFD Not possible in notpad.
+------------------------------------------------
+Q-5 What is Flow chart? Create a flowchart to make addition of two numbers.
+Ans. Flowchart - It is a pictorial represiontation of algorithm.
+Algorithm - The process of which need to follow step-by-step is called algorithm.
+Create a Algorith to make addition of two numbers.
+Step - 1 : Start
+Step - 2 : Enter Num1 and Num2
+Step - 3 : Sum = Num1 + Num2
+Step - 4 : Display Sum
+Step - 5 : End
+Create a flowchart to make addition of two numbers.
+Flowchart Not possible in notpad.
+------------------------------------------------
+Q-6 What is Use case Diagram? Create a use-case on bill payment on paytm.
+Ans. This Use case Diagram is a graphical depiction of the interactions amon the elements of payment management system. It represents the methodology used in system analysis to identify, clarify and organize requirements of payment management syste. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
+Case Diagram Not possible in notpad.
+
+
+
+
+
+
+
+
